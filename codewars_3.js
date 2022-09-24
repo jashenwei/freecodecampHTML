@@ -8,3 +8,5 @@ function getGrade(s1, s2, s3) {
 
 }
 console.log(getGrade(42, 82, 20))
+
+//оценка среднее-ариф.
