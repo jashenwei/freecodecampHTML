@@ -1,0 +1,1 @@
+let yourArray = ['wqe', 'qwe', 23, 23, false] // Change this line
